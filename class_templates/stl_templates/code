@@ -1,0 +1,8 @@
+#include <iostream>
+#include <array.cpp>
+#include <pair.cpp>
+#include <vector.cpp>
+
+int main() 
+{
+    std::pair<int, ___> ___(1, "c<>definity");
